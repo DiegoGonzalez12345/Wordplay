@@ -13,6 +13,7 @@
 		B0359493272857FA000B6A69 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0359491272857FA000B6A69 /* Main.storyboard */; };
 		B0359495272857FB000B6A69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0359494272857FB000B6A69 /* Assets.xcassets */; };
 		B0359498272857FB000B6A69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0359496272857FB000B6A69 /* LaunchScreen.storyboard */; };
+		B03594A0272860AE000B6A69 /* WordPlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = B035949F272860AE000B6A69 /* WordPlay.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B0359494272857FB000B6A69 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B0359497272857FB000B6A69 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B0359499272857FB000B6A69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B035949F272860AE000B6A69 /* WordPlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordPlay.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B035948D272857FA000B6A69 /* SceneDelegate.swift */,
 				B035948F272857FA000B6A69 /* ViewController.swift */,
 				B0359491272857FA000B6A69 /* Main.storyboard */,
+				B035949F272860AE000B6A69 /* WordPlay.swift */,
 				B0359494272857FB000B6A69 /* Assets.xcassets */,
 				B0359496272857FB000B6A69 /* LaunchScreen.storyboard */,
 				B0359499272857FB000B6A69 /* Info.plist */,
@@ -140,6 +143,7 @@
 				B0359490272857FA000B6A69 /* ViewController.swift in Sources */,
 				B035948C272857FA000B6A69 /* AppDelegate.swift in Sources */,
 				B035948E272857FA000B6A69 /* SceneDelegate.swift in Sources */,
+				B03594A0272860AE000B6A69 /* WordPlay.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
